@@ -2,5 +2,5 @@
 header("location:landing-page.html");
 ?>
 <script language="JavaScript">
-window.location='landing-page.html';
+window.location='index.html';
 </script>
